@@ -7,7 +7,9 @@
 
 - 📫 How to reach me **maxime.pinet@outlook.fr**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAE5EK2ybkY/Avu0mAEI8xb89E3lFZiVOg/view?utm_content=DAE5EK2ybkY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAE5EK2ybkY/Avu0mAEI8xb89E3lFZiVOg/view?utm_content=DAE5EK2ybkY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences <a href ="https://www.canva.com/design/DAE5EK2ybkY/Avu0mAEI8xb89E3lFZiVOg/view?utm_content=DAE5EK2ybkY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="blank"> Curriculum Vitae </a>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
