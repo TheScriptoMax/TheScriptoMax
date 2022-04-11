@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maxime</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-- 🔭 I’m currently working on **Perk**
+- 🔭 I’m currently working on **Perks**
 
 - 🌱 I’m currently learning **Three.js and Vue.js**
 
